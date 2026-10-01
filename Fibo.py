@@ -1,4 +1,4 @@
-def fibbu(num) :
+def fibo(num) :
     a = 1
     b = 0
     for x in range(num) :
@@ -6,4 +6,4 @@ def fibbu(num) :
         
         print (a , b)
 
-print(fibbu(10))
+print(fibo(10))
